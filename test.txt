@@ -1,2 +1,2 @@
 name : Aashik Ali
-city : TEN
+city : Singapore
